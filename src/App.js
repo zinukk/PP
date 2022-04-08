@@ -6,6 +6,7 @@ function App() {
     <div className="App">
       jebal
       하제발요
+      진짜 제밟요
     </div>
   );
 }
